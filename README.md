@@ -1,2 +1,1 @@
-# tc_add_sub
-A VHDL program implementing an 8-bit two's complement parallel adder/ subtractor with overflow detection.
+Computer Engineering Design Lab with Dr Hou (ECE-495, 2024F)
